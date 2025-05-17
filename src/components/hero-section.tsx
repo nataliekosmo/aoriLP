@@ -71,18 +71,18 @@ export default function HeroSection() {
                 fill
                 className="object-cover"
                 priority
-                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/481628084.jpg?k=4f8be90d1b62429b46b6b97ada1d6dc59844620d6fb1e5a4ee38a2babbb10db7&o=&hp=1"
+                sizes="(max-width:968px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                src="https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159778/IMG-20250424-WA0013_j4d82t.jpg"
               />
             </div>
             <div className="col-span-1 grid grid-rows-2 gap-2 md:gap-4">
               <div className="relative rounded-lg overflow-hidden">
                 <Image
-                  src="https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0023_okyvwk.jpg"
+                  src="https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159792/IMG-20250424-WA0027_uycktd.jpg"
                   alt="Kamar AORI Guest House Malang"
                   fill
                   className="object-cover"
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  sizes="(max-width:968px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 />
               </div>
               <div className="relative rounded-lg overflow-hidden">
@@ -91,7 +91,7 @@ export default function HeroSection() {
                   alt="Lobby AORI Guest House Malang"
                   fill
                   className="object-cover"
-                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  sizes="(max-width:968px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 />
               </div>
             </div>

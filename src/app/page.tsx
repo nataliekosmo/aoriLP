@@ -32,7 +32,7 @@ export default async function Home() {
       description: "Kamar double bed / twin dengan semua fasilitas dasar",
       features: ["Max 3 Orang", "WiFi Gratis", "Fan", "Kamar Mandi Dalam"],
       imageUrl:
-        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/477685261.jpg?k=56db38d9aab278c44966efa60b23eb7e58a5ead10cd5ae70c23a7765fcef6eda&o=&hp=1",
+        "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0021_ak8381.jpg",
     },
     {
       title: "Kamar Single Standard",
@@ -40,7 +40,7 @@ export default async function Home() {
       description: "Kamar khusus untuk 1 orang dengan semua fasilitas dasar",
       features: ["Max 1 Orang", "WiFi Gratis", "Fan", "Kamar Mandi Dalam"],
       imageUrl:
-        "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1741798142/IMG-20240630-WA0033_tgezls.jpg",
+        "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159778/IMG-20250424-WA0014_wqpqgi.jpg",
     },
   ];
 
