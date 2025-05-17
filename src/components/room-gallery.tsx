@@ -14,23 +14,23 @@ interface RoomGalleryProps {
 export default function RoomGallery({
   images = [
     {
-      src: "https://cf.bstatic.com/xdata/images/hotel/max1280x900/477685268.jpg?k=60b3eedb0be0eb1fc70b66e7aed3dc4c7be94cd39d5e05e2e81a886d72ab3475&o=&hp=1",
+      src: "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159777/IMG-20250424-WA0012_q1sims.jpg",
       alt: "Tampak Kamar",
     },
     {
-      src: "https://cf.bstatic.com/xdata/images/hotel/max1280x900/481628652.jpg?k=98a87911d652dcdb3a93a4fb0c053a359c3521ee82902658d403549a993dafc7&o=&hp=1",
+      src: "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0019_koca6s.jpg",
       alt: "Kamar Mandi",
     },
     {
-      src: "https://cf.bstatic.com/xdata/images/hotel/max1280x900/481628078.jpg?k=27c3096c8b98a6c9eebbdff22126a9cac932ba6981cc83f9c4bd546b09b2c2b8&o=&hp=1",
+      src: "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159793/IMG-20250424-WA0028_iaca51.jpg",
       alt: "Garden",
     },
     {
-      src: "https://cf.bstatic.com/xdata/images/hotel/max1280x900/481628081.jpg?k=5538bc730fe378ab1b5350cda84a91fbff50617f790f42f6c1432ed85244576b&o=&hp=1",
+      src: "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0018_zs6suw.jpg",
       alt: "Communal Space",
     },
     {
-      src: "https://cf.bstatic.com/xdata/images/hotel/max1280x900/481628075.jpg?k=3153304848460613dce0b052a90c92cd7a98d97e83a552557902e1f2d0427f17&o=&hp=1",
+      src: "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159778/IMG-20250424-WA0016_nmlzbc.jpg",
       alt: "Lobby",
     },
   ],

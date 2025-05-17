@@ -59,7 +59,7 @@ export default function LocationMap() {
       <CardContent className="p-4">
         <div className="relative w-full h-64 mb-4 bg-gray-200 rounded-md overflow-hidden">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.4047389188877!2d112.61360511100752!3d-7.953423179310134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd629cb9516b0f5%3A0x66c61a6c32dbd8ee!2sUniversitas%20Brawijaya!5e0!3m2!1sen!2sid!4v1716232345678!5m2!1sen!2sid"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3951.4194511118926!2d112.6082057!3d-7.9555318!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e78835c36a0282d%3A0x73804ebf5b781529!2sAORI%20Guest%20House%20(Syariah)!5e0!3m2!1sid!2sid!4v1747481143278!5m2!1sid!2sid"
             width="100%"
             height="100%"
             style={{ border: 0 }}

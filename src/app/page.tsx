@@ -24,7 +24,7 @@ export default async function Home() {
       description: "Kamar double bed / twin dengan semua fasilitas dasar + AC",
       features: ["Max 3 Orang", "WiFi Gratis", "AC", "Kamar Mandi Dalam"],
       imageUrl:
-        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/481628077.jpg?k=ffde84a58bac5b7a9d56a237db6d08ac42a0c94763d163c48226eadf4cbf6e5b&o=&hp=1",
+        "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159780/IMG-20250424-WA0026_pfelsz.jpg",
     },
     {
       title: "Kamar Deluxe non AC",
@@ -32,7 +32,7 @@ export default async function Home() {
       description: "Kamar double bed / twin dengan semua fasilitas dasar",
       features: ["Max 3 Orang", "WiFi Gratis", "Fan", "Kamar Mandi Dalam"],
       imageUrl:
-        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/477685261.jpg?k=56db38d9aab278c44966efa60b23eb7e58a5ead10cd5ae70c23a7765fcef6eda&o=&hp=1",
+        "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0022_dlv5d7.jpg",
     },
     {
       title: "Kamar Single Standard",

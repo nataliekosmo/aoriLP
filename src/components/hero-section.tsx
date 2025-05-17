@@ -78,7 +78,7 @@ export default function HeroSection() {
             <div className="col-span-1 grid grid-rows-2 gap-2 md:gap-4">
               <div className="relative rounded-lg overflow-hidden">
                 <Image
-                  src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/481628077.jpg?k=ffde84a58bac5b7a9d56a237db6d08ac42a0c94763d163c48226eadf4cbf6e5b&o=&hp=1"
+                  src="https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0023_okyvwk.jpg"
                   alt="Kamar AORI Guest House Malang"
                   fill
                   className="object-cover"
@@ -87,8 +87,8 @@ export default function HeroSection() {
               </div>
               <div className="relative rounded-lg overflow-hidden">
                 <Image
-                  src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/477685261.jpg?k=56db38d9aab278c44966efa60b23eb7e58a5ead10cd5ae70c23a7765fcef6eda&o=&hp=1"
-                  alt="Kamar Mandi AORI Guest House Malang"
+                  src="https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0018_zs6suw.jpg"
+                  alt="Lobby AORI Guest House Malang"
                   fill
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
