@@ -71,7 +71,7 @@ export default function HeroSection() {
                 fill
                 className="object-cover"
                 priority
-                sizes="(max-width:568px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                sizes="(max-width:768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 src="https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159778/IMG-20250424-WA0013_j4d82t.jpg"
               />
             </div>
@@ -82,7 +82,7 @@ export default function HeroSection() {
                   alt="Kamar AORI Guest House Malang"
                   fill
                   className="object-cover"
-                  sizes="(max-width:568px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  sizes="(max-width:768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 />
               </div>
               <div className="relative rounded-lg overflow-hidden">
@@ -91,7 +91,7 @@ export default function HeroSection() {
                   alt="Lobby AORI Guest House Malang"
                   fill
                   className="object-cover"
-                  sizes="(max-width:568px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  sizes="(max-width:768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 />
               </div>
             </div>
