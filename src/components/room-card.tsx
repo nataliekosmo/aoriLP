@@ -35,10 +35,7 @@ export default function RoomCard({
 
   const roomImages = [
     { src: imageUrl, alt: `${title} - Tampak Utama` },
-    {
-      src: "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0022_dlv5d7.jpg",
-      alt: `${title} - Tampak Lain`,
-    },
+  
     {
       src: "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0019_koca6s.jpg",
       alt: `${title} - Kamar Mandi`,
