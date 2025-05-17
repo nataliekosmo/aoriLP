@@ -155,7 +155,7 @@ export default function SeoContent() {
           <p className="mb-4">
             Untuk informasi lebih lanjut atau pemesanan kamar, silakan hubungi
             kami melalui WhatsApp di nomor +6282257673337 atau kunjungi website
-            kami di www.aoriguesthouse.com.
+            kami di www.aorihouse.com.
           </p>
         </div>
       </div>

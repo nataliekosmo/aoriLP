@@ -39,10 +39,10 @@ export default function RootLayout({
           property="og:image"
           content="https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=1200&q=80"
         />
-        <meta property="og:url" content="https://aoriguesthouse.com" />
+        <meta property="og:url" content="https://aorihouse.com" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
-        <link rel="canonical" href="https://aoriguesthouse.com" />
+        <link rel="canonical" href="https://aorihouse.com" />
       </head>
       <Script src="https://api.tempolabs.ai/proxy-asset?url=https://storage.googleapis.com/tempo-public-assets/error-handling.js" />
       <body className={inter.className}>

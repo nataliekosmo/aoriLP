@@ -32,7 +32,7 @@ export default async function Home() {
       description: "Kamar double bed / twin dengan semua fasilitas dasar",
       features: ["Max 3 Orang", "WiFi Gratis", "Fan", "Kamar Mandi Dalam"],
       imageUrl:
-        "https://res.cloudinary.com/dzhrjgqj0/image/upload/v1746159779/IMG-20250424-WA0022_dlv5d7.jpg",
+        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/477685261.jpg?k=56db38d9aab278c44966efa60b23eb7e58a5ead10cd5ae70c23a7765fcef6eda&o=&hp=1",
     },
     {
       title: "Kamar Single Standard",
@@ -57,7 +57,7 @@ export default async function Home() {
             name: "AORI Guest House Malang",
             description:
               "Penginapan Syariah dengan lokasi strategis dekat Universitas Brawijaya Malang. Kamar nyaman, bersih, dan terjangkau.",
-            url: "https://aoriguesthouse.com",
+            url: "https://aorihouse.com",
             telephone: "+6281234567890",
             address: {
               "@type": "PostalAddress",
@@ -129,8 +129,8 @@ export default async function Home() {
               "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80",
             ],
             sameAs: [
-              "https://www.facebook.com/aoriguesthouse",
-              "https://www.instagram.com/aoriguesthouse",
+              "https://www.facebook.com/aorihouse",
+              "https://www.instagram.com/aorihouse",
             ],
           }),
         }}

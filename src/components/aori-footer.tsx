@@ -36,10 +36,10 @@ export default function AoriFooter() {
               <li className="flex items-center">
                 <Mail className="h-5 w-5 mr-2 text-blue-400" />
                 <a
-                  href="mailto:info@aoriguesthouse.com"
+                  href="mailto:info@aorihouse.com"
                   className="hover:text-white"
                 >
-                  info@aoriguesthouse.com
+                  info@aorihouse.com
                 </a>
               </li>
             </ul>
